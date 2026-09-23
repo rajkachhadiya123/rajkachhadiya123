@@ -1,17 +1,138 @@
-<h1 align="center">Hi 👋, I'm raj kachhadiya</h1>
-<h3 align="center">web developer</h3>
+# Hi, I'm Raj Kachhadiya 👋
 
-- 🌱 I’m currently learning **AI & DS**
+### AI/ML Engineer in Progress | GenAI | Backend Engineering
 
-- 💬 Ask me about **HTML,C,js,java,python**
+I'm an Artificial Intelligence & Data Science graduate focused on building
+practical and production-oriented AI systems.
 
-- 📫 How to reach me **rajkachhadiya@gmail.com**
+My current focus is on combining **Machine Learning, Deep Learning, LLMs,
+RAG, Agentic AI, and Backend Engineering** to build reliable AI applications.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/raj-kachhadiya-6a9808278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raj-kachhadiya-6a9808278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://instagram.com/raj_k_35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj_k_35" height="30" width="40" /></a>
-</p>
+I'm currently strengthening my software engineering skills and building
+production-oriented projects with Python, FastAPI, PostgreSQL, Docker,
+LLM evaluation, observability, and cloud technologies.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🧠 What I Work With
+
+### AI / Machine Learning
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Transformers
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Embeddings & Vector Databases
+- Agentic AI
+- MCP
+
+### Backend & Software Engineering
+- Python
+- FastAPI
+- REST APIs
+- PostgreSQL
+- SQL
+- Git / GitHub
+- Java
+- Object-Oriented Programming
+- SOLID principles
+- Software Design & Architecture
+
+### AI Engineering
+- LLM Evaluation
+- RAG Evaluation
+- LLM Tracing & Observability
+- AI Guardrails
+- LLMOps
+- Prompt & Model Versioning
+- Agent Evaluation
+- AI Application Architecture
+
+### Tools & Technologies
+- PyTorch
+- TensorFlow / Keras
+- Scikit-learn
+- Hugging Face
+- LangChain
+- LangGraph
+- Docker
+- GitHub Actions
+- PostgreSQL / pgvector
+- Cloud Platforms
+
+---
+
+## 🚀 What I'm Currently Building
+
+I'm spending the next few months focusing heavily on **building rather than
+just learning**.
+
+My goal is to develop a small number of production-oriented AI projects
+that demonstrate how AI systems are actually engineered, evaluated,
+deployed, and improved.
+
+### Current Project Focus
+
+🔹 **Production RAG System**
+- Document ingestion
+- Hybrid retrieval
+- Reranking
+- RAG evaluation
+- LLM evaluation
+- Tracing & observability
+- Guardrails
+- FastAPI
+- PostgreSQL / pgvector
+- Docker
+- CI/CD
+
+🔹 **Agentic AI System**
+- Tool calling
+- Agent loops
+- Agent evaluation
+- Harness engineering
+- MCP
+- Guardrails
+- Observability
+
+🔹 **Production ML System**
+- Data pipelines
+- Feature engineering
+- Model training
+- Experiment tracking
+- Model evaluation
+- API deployment
+- Monitoring
+
+🔹 **Production AI Platform**
+- Combining RAG
+- Agents
+- LLMs
+- Evaluation
+- Observability
+- Backend engineering
+- Cloud deployment
+
+---
+
+## 📊 My Engineering Approach
+
+I try to follow this cycle:
+
+```text
+Build
+  ↓
+Test
+  ↓
+Evaluate
+  ↓
+Find Failure
+  ↓
+Improve
+  ↓
+Measure Again
+  ↓
+Deploy
+  ↓
+Monitor
